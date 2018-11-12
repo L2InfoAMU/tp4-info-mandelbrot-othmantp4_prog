@@ -52,7 +52,7 @@ public class Complex {
     }
 
     double getImaginary() {
-        return imaginary;
+        return this.imaginary;
     }
 
     /**
